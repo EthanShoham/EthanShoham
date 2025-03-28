@@ -76,10 +76,10 @@
 ---
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/EthanShoham/ssh-tools/pull/3) in [Ethan-S-Dev/ssh-tools](https://github.com/EthanShoham/ssh-tools)
-2. 💪 Opened PR [#3](https://github.com/EthanShoham/ssh-tools/pull/3) in [Ethan-S-Dev/ssh-tools](https://github.com/EthanShoham/ssh-tools)
-3. 🎉 Merged PR [#2](https://github.com/EthanShoham/ssh-tools/pull/2) in [Ethan-S-Dev/ssh-tools](https://github.com/EthanShoham/ssh-tools)
-4. 💪 Opened PR [#2](https://github.com/EthanShoham/ssh-tools/pull/2) in [Ethan-S-Dev/ssh-tools](https://github.com/EthanShoham/ssh-tools)
+1. 🎉 Merged PR [#3](https://github.com/EthanShoham/ssh-tools/pull/3) in [EthanShoham/ssh-tools](https://github.com/EthanShoham/ssh-tools)
+2. 💪 Opened PR [#3](https://github.com/EthanShoham/ssh-tools/pull/3) in [EthanShoham/ssh-tools](https://github.com/EthanShoham/ssh-tools)
+3. 🎉 Merged PR [#2](https://github.com/EthanShoham/ssh-tools/pull/2) in [EthanShoham/ssh-tools](https://github.com/EthanShoham/ssh-tools)
+4. 💪 Opened PR [#2](https://github.com/EthanShoham/ssh-tools/pull/2) in [EthanShoham/ssh-tools](https://github.com/EthanShoham/ssh-tools)
 <!--END_SECTION:activity-->
 
 
