@@ -1,7 +1,5 @@
 ## Hi, I'm Ethan 👋
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=EthanShoham.EthanShoham" alt="visitor badge"/>
-
 #### 🍽️ - Eat - 🍽️
 #### 😴 - Sleep - 😴
 #### 👨‍💻 - Code - 👨‍💻
