@@ -7,11 +7,6 @@
 #### 👨‍💻 - Code - 👨‍💻
 #### 🔁 - Repeat - 🔁
 
-
-<!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EthanShoham.EthanShoham)-->
-
-
-
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-ethan-s-dev.vercel.app/api/spotify)](https://open.spotify.com/user/fxv03m10bfrkfvgetec19iydc?si=4546e26349f24c87)
