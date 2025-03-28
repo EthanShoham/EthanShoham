@@ -21,7 +21,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ethan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ethan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -63,7 +62,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github-readme-stats-ethan-s-dev.vercel.app"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ethan-S-Dev&show_icons=true&include_all_commits=true&theme=dark&hide=prs,issues,contribs" alt="Ethan's github stats" title="Ethan's github stats" /></a>
+      <a href="https://github-readme-stats-ethan-s-dev.vercel.app"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EthanShoham&show_icons=true&include_all_commits=true&theme=dark&hide=prs,issues,contribs" alt="Ethan's github stats" title="Ethan's github stats" /></a>
     </td>
     <td>
       <a href="https://github-readme-stats-ethan-s-dev.vercel.app"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanShoham&layout=compact&theme=dark" alt="Ethan's most used languages" title="Ethan's most used languages" /></a>
@@ -85,4 +84,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/ethan-shoham-13a40050/
-[github]: https://github.com/Ethan-S-Dev/
+[github]: https://github.com/EthanShoham/
