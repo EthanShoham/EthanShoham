@@ -2,16 +2,13 @@
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=EthanShoham.EthanShoham&left_color=green&right_color=red)
 
-#### 📚 - Software Dev Student - 📚
-#### 🎮 - Gamer At Heart - 🎮
-#### 🖥️ - Computer's Freak - 🖥️
 #### 🍽️ - Eat - 🍽️
 #### 😴 - Sleep - 😴
 #### 👨‍💻 - Code - 👨‍💻
 #### 🔁 - Repeat - 🔁
 
 
-<!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ethan-S-Dev.Ethan-S-Dev)-->
+<!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EthanShoham.EthanShoham)-->
 
 
 
