@@ -1,6 +1,6 @@
 ## Hi, I'm Ethan 👋
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=EthanShoham.EthanShoham&left_color=green&right_color=red)
+<img src="https://visitor-badge.glitch.me/badge?page_id=EthanShoham.EthanShoham" alt="visitor badge"/>
 
 #### 🍽️ - Eat - 🍽️
 #### 😴 - Sleep - 😴
